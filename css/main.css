@@ -548,7 +548,7 @@ form,
 }
 
 .pace .pace-progress {
-  background: #00a650;
+  background: #ffa100;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -592,7 +592,7 @@ form,
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: #00a650;
+  background-color: #ffa100;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -728,7 +728,7 @@ textarea:focus,
 select:focus {
   color: #000000;
   box-shadow: 0 0 5px rgba(0, 166, 80, 0.8);
-  border: 1px solid #00a650;
+  border: 1px solid #ffa100;
 }
 
 label,
@@ -819,7 +819,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #00a650;
+  -webkit-text-fill-color: #ffa100;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -878,8 +878,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #00a650;
-  border-color: #00a650;
+  background: #ffa100;
+  border-color: #ffa100;
   color: #FFFFFF;
 }
 
@@ -1161,7 +1161,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .stats-tabs li a em {
@@ -1360,7 +1360,7 @@ input::-moz-focus-inner {
 
 .pgn .current,
 .pgn .current:hover {
-  background-color: #00a650;
+  background-color: #ffa100;
   color: white;
 }
 
@@ -1477,7 +1477,7 @@ input::-moz-focus-inner {
 
 .subhead {
   margin-top: 0;
-  color: #00a650;
+  color: #ffa100;
   font-size: 2.4rem;
   line-height: 1.1667;
   margin-bottom: .8rem;
@@ -1569,7 +1569,7 @@ input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-  background: #00a650;
+  background: #ffa100;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1738,11 +1738,11 @@ input::-moz-focus-inner {
 
 .header-nav-wrap .header-main-nav li a:hover,
 .header-nav-wrap .header-main-nav li a:focus {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .header-nav-wrap .header-main-nav li.current a {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .header-nav-wrap .header-social {
@@ -1777,7 +1777,7 @@ input::-moz-focus-inner {
 
 .header-nav-wrap .header-social li a:hover,
 .header-nav-wrap .header-social li a:focus {
-  background-color: #00a650;
+  background-color: #ffa100;
 }
 
 .s-header--blog .header-social li a {
@@ -2111,7 +2111,7 @@ input::-moz-focus-inner {
   content: "";
   height: 2px;
   width: 8rem;
-  background-color: #00a650;
+  background-color: #ffa100;
   position: absolute;
   left: 8px;
   top: 0;
@@ -2196,7 +2196,7 @@ input::-moz-focus-inner {
 }
 
 .btn-video:hover .video-icon {
-  background-color: #00a650;
+  background-color: #ffa100;
   background-image: url(../images/icons/icon-play.svg);
 }
 
@@ -2648,7 +2648,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 20rem;
   padding-bottom: 0;
-  background-color: #00a650;
+  background-color: #ffa100;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
   position: relative;
@@ -2840,7 +2840,7 @@ html.no-csstransitions .home-content__main {
 
 .item-feature__icon {
   float: left;
-  color: #00a650;
+  color: #ffa100;
   font-size: 4.8rem;
   margin-top: -1.8rem;
 }
@@ -3004,7 +3004,7 @@ html.no-csstransitions .home-content__main {
 
 .testimonials__name {
   font-weight: 700;
-  color: #00a650;
+  color: #ffa100;
   margin-right: 4px;
 }
 
