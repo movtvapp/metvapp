@@ -107,7 +107,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #00a650;
+  color: #ffa100;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -419,7 +419,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #00a650;
+  background: #ffa100;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -428,7 +428,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #00a650;
+  color: #ffa100;
 }
 
 dd {
@@ -3122,7 +3122,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-plan--popular .item-plan__block {
-  background-color: #00a650;
+  background-color: #ffa100;
   border: none;
 }
 
@@ -3208,7 +3208,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-download {
   padding-top: 12rem;
-  background-color: #00a650;
+  background-color: #ffa100;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
   position: relative;
@@ -3343,11 +3343,11 @@ html.no-csstransitions .home-content__main {
 
 .s-footer a:hover,
 .s-footer a:focus {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .s-footer .display-2 {
-  color: #00a650;
+  color: #ffa100;
   margin-bottom: 1.6rem;
 }
 
@@ -3440,8 +3440,8 @@ html.no-csstransitions .home-content__main {
 
 .footer__subscribe #mc-form input[type=submit] {
   color: #FFFFFF;
-  background: #00a650;
-  border-color: #00a650;
+  background: #ffa100;
+  border-color: #ffa100;
   margin-right: 0;
   padding: 0 20px 0 24px;
   height: 6.4rem;
@@ -3513,7 +3513,7 @@ html.no-csstransitions .home-content__main {
 
 .footer__social li a:hover,
 .footer__social li a:focus {
-  background-color: #00a650;
+  background-color: #ffa100;
   color: #FFFFFF;
 }
 
@@ -3551,7 +3551,7 @@ html.no-csstransitions .home-content__main {
 
 .footer__site-links li a:hover,
 .footer__site-links li a:focus {
-  color: #00a650;
+  color: #ffa100;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3565,7 +3565,7 @@ html.no-csstransitions .home-content__main {
   font-weight: 600;
   font-size: 2.2rem;
   line-height: 1.455;
-  color: #00a650;
+  color: #ffa100;
 }
 
 .footer__contact .footer__mail-link:hover,
@@ -3636,7 +3636,7 @@ html.no-csstransitions .home-content__main {
 .go-top a:focus,
 .go-top a:visited:hover,
 .go-top a:visited:focus {
-  background-color: #00a650;
+  background-color: #ffa100;
 }
 
 .go-top.link-is-visible {
@@ -3809,7 +3809,7 @@ a.page-header__search-trigger span {
 
 a.page-header__search-trigger:hover span,
 a.page-header__search-trigger:focus span {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .page-header__search {
@@ -3924,7 +3924,7 @@ a.page-header__search-trigger:focus span {
 
 .page-header__overlay-close:hover::before,
 .page-header__overlay-close:hover::after {
-  background-color: #00a650;
+  background-color: #ffa100;
 }
 
 .page-header__overlay-close::before,
@@ -4191,7 +4191,7 @@ body.search-is-visible {
 
 .entries .more-link:hover,
 .entries .more-link:focus {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .entries-wrap + .pagination-wrap {
@@ -4307,7 +4307,7 @@ body.search-is-visible {
 
 .blog-single-nav a:hover,
 .blog-single-nav a:focus {
-  color: #00a650;
+  color: #ffa100;
 }
 
 .blog-single-nav__prev {
